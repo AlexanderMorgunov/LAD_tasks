@@ -1,0 +1,12 @@
+#counter {
+    background-color: #ffc107;
+    font-size: 25px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 255, .2);
+    text-align: center;
+}
+.gameStatus {
+    background-color: #ffc107;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 255, .2);
+}
